@@ -1,2 +1,2 @@
-# ecs._.
+# ecs()
 My website for ecs
